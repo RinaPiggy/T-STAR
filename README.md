@@ -4,8 +4,7 @@ This repository contains the official code implementation for our paper:
 
 **T-STAR: A Context-Aware Transformer Framework for Short-Term Probabilistic Demand Forecasting in Dock-Based Shared Micro-Mobility**
 
-Preprint (arXiv): https://arxiv.org/abs/2602.06866  
-Under review at *Transportation Research Part C*.
+Published at *Transportation Research Part C*: https://www.sciencedirect.com/science/article/pii/S0968090X26003852.
 
 
 # Abstract
